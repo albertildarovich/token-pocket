@@ -15,7 +15,7 @@ function App() {
     setAppInfo(appInfo);
     console.log('AppInfo: ', appInfo);
   }
-  tp.importWallet('eth');
+  // tp.importWallet('eth');
 
   return (
     <div className="App">
